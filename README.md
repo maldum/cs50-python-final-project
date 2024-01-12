@@ -1,5 +1,5 @@
 # CS50 Python Final Project
-[Link Text](https://cs50.harvard.edu/python/2022/)
+[CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
 
 # ATM Card Printer Kiosk
 #### Project Link: https://cs50.harvard.edu/python/2022/project/
